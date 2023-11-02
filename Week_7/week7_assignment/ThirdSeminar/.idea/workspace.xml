@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7489b12-c1d8-40f6-9015-f53f2d92fdaa" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/ThirdSeminar">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sopt32_seminar" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Olv3kyIQigL9EA0TiT7n2zRfwP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/강수경/Desktop/6차세미나실습/ThirdSeminar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "전역 라이브러리",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "b9f7a864bb5cd83cd78fed41a72e4e7e",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\강수경\Desktop\ThirdSeminar\ThirdSeminar\src\main\java\sopt\org\ThirdSeminar\domain\controller" />
+      <recent name="C:\Users\강수경\Desktop\ThirdSeminar\ThirdSeminar\src\main\java\sopt\org\ThirdSeminar" />
+      <recent name="C:\Users\강수경\Desktop\ThirdSeminar\ThirdSeminar\domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ThirdSeminarApplication">
+    <configuration name="ThirdSeminarApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ThirdSeminar.ThirdSeminar.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sopt.org.ThirdSeminar.ThirdSeminarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdSeminarApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sopt.org.ThirdSeminar.main~2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sopt.org.ThirdSeminar.ThirdSeminarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdSeminarApplication (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sopt.org.ThirdSeminar.main~1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sopt.org.ThirdSeminar.ThirdSeminarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdSeminarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sopt.org.ThirdSeminar.main~1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sopt.org.ThirdSeminar.ThirdSeminarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="a7489b12-c1d8-40f6-9015-f53f2d92fdaa" name="변경" comment="" />
+      <created>1682147785713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682147785713</updated>
+      <workItem from="1682147786774" duration="1195000" />
+      <workItem from="1682149013589" duration="4178000" />
+      <workItem from="1682217602013" duration="3000" />
+      <workItem from="1682621636571" duration="167000" />
+      <workItem from="1683353139512" duration="1960000" />
+      <workItem from="1683356289164" duration="41000" />
+      <workItem from="1684554021744" duration="48000" />
+      <workItem from="1684554265427" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
